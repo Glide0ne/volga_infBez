@@ -4,6 +4,7 @@
 Простой код и у меня на руках интересная фраза!
 
 
+'''
 # Химическая таблица элементов, соотнесение символов с атомными номерами
 periodic_table = {
     "Bk": 97, "Fl": 114, "Sb": 51, "Am": 95, "Ubu": None, "Cd": 48,
@@ -20,6 +21,6 @@ elements = ["Bk", "Fl", "Sb", "Am", "Ubu", "Cd", "Ts", "Am", "Mc", "Md", "Md", "
 atomic_numbers = [periodic_table.get(element, None) for element in elements]
 
 atomic_numbers
-
+'''
 
 ar3_0u_see_me?
