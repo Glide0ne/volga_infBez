@@ -1,0 +1,7 @@
+{1} : VIT{FLAG}
+
+{2} : VIT{flag}
+
+{3} : VIT{flag}
+
+{4} : VIT{full_name}
