@@ -1,7 +1,7 @@
-{1} : VIT{FLAG}
+{1} : VIT{SOGOODSOFARKEEPTRYING}
 
-{2} : VIT{flag}
+{2} : VIT{1s_th1s_really_the_p@ssw0rd}
 
-{3} : VIT{flag}
+{3} : VIT{ar3_0u_see_me?}
 
-{4} : VIT{full_name}
+{4} : VIT{Table Rock Welcome Centre, 6650 Niagara Parkway, Niagara Falls, Canada}
